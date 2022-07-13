@@ -1,7 +1,7 @@
 wheel
 asgiref
 pytz==2020.1
-sqlparse==0.3.1
+sqlparse==0.4.2
 php-wsgi
 pyyaml==5.1
 django-crispy-forms
